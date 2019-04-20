@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxtech.github.io/"/>
-  <updated>2019-04-20T05:00:11.084Z</updated>
+  <updated>2019-04-20T05:04:46.347Z</updated>
   <id>https://yuxtech.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yuxtech.github.io/2019/04/20/test/"/>
     <id>https://yuxtech.github.io/2019/04/20/test/</id>
     <published>2019-04-20T02:49:33.000Z</published>
-    <updated>2019-04-20T05:00:11.084Z</updated>
+    <updated>2019-04-20T05:04:46.347Z</updated>
     
-    <content type="html"><![CDATA[<p>test测试<br>$a+b=c$</p><script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}</p><p>我的图像<br><img src="/2019/04/20/test/logo.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p>test测试<br>$a+b=c$</p><script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}</p><p>我的图像<br><img src="/2019/04/20/test/logo.jpg" alt><br>logo呢</p>]]></content>
     
     <summary type="html">
     
