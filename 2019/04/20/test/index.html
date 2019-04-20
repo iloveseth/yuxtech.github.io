@@ -16,7 +16,7 @@
 <meta property="og:site_name" content="Xiang&#39;s Texmath">
 <meta property="og:description" content="test测试$a+b=c$ a^2+b^2=c^2\begin{equation}\begin{split}a&amp;amp;b+c\\\\a&amp;amp;b+c\end{split}\end{equation} imc2006   	      	    pdf阅读全文可获得 绝对路径与相对路径，根目录 在线显示pdf文件">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2019-04-20T08:19:15.595Z">
+<meta property="og:updated_time" content="2019-04-20T08:20:06.016Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="test">
 <meta name="twitter:description" content="test测试$a+b=c$ a^2+b^2=c^2\begin{equation}\begin{split}a&amp;amp;b+c\\\\a&amp;amp;b+c\end{split}\end{equation} imc2006   	      	    pdf阅读全文可获得 绝对路径与相对路径，根目录 在线显示pdf文件">
@@ -177,7 +177,7 @@
       
         <p>test测试<br>$a+b=c$</p>
 <script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}</p>
-<p><a href="./imc2006">imc2006</a></p>
+<p><a href="imc2006.pdf">imc2006</a></p>
 <p><br><br>
 
 	<div class="row">
@@ -586,5 +586,20 @@ MathJax.Hub.Queue(function() {
 
 </div>
   </div>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 </body>
 </html>
