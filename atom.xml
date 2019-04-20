@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxtech.github.io/"/>
-  <updated>2019-04-20T04:14:09.682Z</updated>
+  <updated>2019-04-20T04:15:52.084Z</updated>
   <id>https://yuxtech.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yuxtech.github.io/2019/04/20/test/"/>
     <id>https://yuxtech.github.io/2019/04/20/test/</id>
     <published>2019-04-20T02:49:33.000Z</published>
-    <updated>2019-04-20T04:14:09.682Z</updated>
+    <updated>2019-04-20T04:15:52.084Z</updated>
     
-    <content type="html"><![CDATA[<p>test测试<br>$a+b=c$</p><script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% pdf ./imc2006.pdf %&#125;</span><br></pre></td></tr></table></figure></p>]]></content>
+    <content type="html"><![CDATA[<p>test测试<br>$a+b=c$</p><script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}</p><div class="row">    <embed src="./imc2006.pdf" width="100%" height="550" type="application/pdf"></div><p>我的pdf</p>]]></content>
     
     <summary type="html">
     
