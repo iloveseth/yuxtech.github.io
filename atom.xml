@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxtech.github.io/"/>
-  <updated>2019-04-22T02:50:19.583Z</updated>
+  <updated>2019-04-22T03:02:21.051Z</updated>
   <id>https://yuxtech.github.io/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>latex</title>
+    <link href="https://yuxtech.github.io/2019/04/22/latex/"/>
+    <id>https://yuxtech.github.io/2019/04/22/latex/</id>
+    <published>2019-04-22T02:58:27.000Z</published>
+    <updated>2019-04-22T03:02:21.051Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="LaTeX入门"><a href="#LaTeX入门" class="headerlink" title="LaTeX入门"></a>LaTeX入门</h1><p><a href="https://yuxtech.github.io/mypdf/latextalk.pdf">latex-talk</a><br><a href="https://yuxtech.github.io/mypdf/latex入门.pdf">latex入门</a></p><p><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/latex入门-刘海洋.pdf" width="100%" height="550" type="application/pdf"></div><br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;LaTeX入门&quot;&gt;&lt;a href=&quot;#LaTeX入门&quot; class=&quot;headerlink&quot; title=&quot;LaTeX入门&quot;&gt;&lt;/a&gt;LaTeX入门&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://yuxtech.github.io/mypdf/latextalk
+      
+    
+    </summary>
+    
+    
+      <category term="LaTeX" scheme="https://yuxtech.github.io/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="https://yuxtech.github.io/2019/04/20/test/"/>
     <id>https://yuxtech.github.io/2019/04/20/test/</id>
     <published>2019-04-20T02:49:33.000Z</published>
-    <updated>2019-04-22T02:50:19.583Z</updated>
+    <updated>2019-04-22T02:59:43.633Z</updated>
     
-    <content type="html"><![CDATA[<p><iframe height="80" width="100" src="https://yuxtech.github.io/my_soul.mp3" frameborder="0" allowfullscreen></iframe><br>test测试<br>$a+b=c$</p><script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}<br>两种方式嵌入pdf<br><a href="https://yuxtech.github.io/mypdf/imc1995.pdf">imc1995</a><br><a href="https://yuxtech.github.io/latextalk.pdf">latex-talk</a></p><p><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/imc2006.pdf" width="100%" height="550" type="application/pdf"></div><br><br><br>pdf可在线阅读及下载</p>]]></content>
+    <content type="html"><![CDATA[<p><iframe height="80" width="100" src="https://yuxtech.github.io/my_soul.mp3" frameborder="0" allowfullscreen></iframe><br>test测试<br>$a+b=c$</p><script type="math/tex; mode=display">a^2+b^2=c^2</script><p>\begin{equation}<br>\begin{split}<br>a&amp;b+c\\\\<br>a&amp;b+c<br>\end{split}<br>\end{equation}<br>两种方式嵌入pdf<br><a href="https://yuxtech.github.io/mypdf/imc1995.pdf">imc1995</a></p><p><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/imc2006.pdf" width="100%" height="550" type="application/pdf"></div><br><br><br>pdf可在线阅读及下载</p>]]></content>
     
     <summary type="html">
     
