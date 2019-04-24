@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxtech.github.io/"/>
-  <updated>2019-04-24T01:59:05.349Z</updated>
+  <updated>2019-04-24T03:35:07.259Z</updated>
   <id>https://yuxtech.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学分析高难习题集</title>
+    <link href="https://yuxtech.github.io/2019/04/25/hard/"/>
+    <id>https://yuxtech.github.io/2019/04/25/hard/</id>
+    <published>2019-04-25T01:19:22.000Z</published>
+    <updated>2019-04-24T03:35:07.259Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="高质量数学分析，积分级数习题集"><a href="#高质量数学分析，积分级数习题集" class="headerlink" title="高质量数学分析，积分级数习题集"></a>高质量数学分析，积分级数习题集</h1><p><a href="https://yuxtech.github.io/mypdf/数学分析变态难题.pdf">我翻译的数学分析变态习题</a><br><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/数学分析变态难题.pdf" width="100%" height="550" type="application/pdf"></div><br><br><br><a href="https://yuxtech.github.io/mypdf/潘神的积分级数题.pdf">潘神(Renascence_5)的积分级数题</a><br><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/潘神的积分级数题.pdf" width="100%" height="550" type="application/pdf"></div><br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;高质量数学分析，积分级数习题集&quot;&gt;&lt;a href=&quot;#高质量数学分析，积分级数习题集&quot; class=&quot;headerlink&quot; title=&quot;高质量数学分析，积分级数习题集&quot;&gt;&lt;/a&gt;高质量数学分析，积分级数习题集&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://y
+      
+    
+    </summary>
+    
+    
+      <category term="数学" scheme="https://yuxtech.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>美国数学月刊征解题</title>
@@ -30,29 +53,6 @@
       
       
         &lt;h1 id=&quot;2019年4月美国数学月刊征解题12104-12110&quot;&gt;&lt;a href=&quot;#2019年4月美国数学月刊征解题12104-12110&quot; class=&quot;headerlink&quot; title=&quot;2019年4月美国数学月刊征解题12104-12110&quot;&gt;&lt;/a&gt;2019年
-      
-    
-    </summary>
-    
-    
-      <category term="数学" scheme="https://yuxtech.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数学分析高难习题集</title>
-    <link href="https://yuxtech.github.io/2019/04/24/hard/"/>
-    <id>https://yuxtech.github.io/2019/04/24/hard/</id>
-    <published>2019-04-24T01:19:22.000Z</published>
-    <updated>2019-04-24T03:29:29.265Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="高质量数学分析，积分级数习题集"><a href="#高质量数学分析，积分级数习题集" class="headerlink" title="高质量数学分析，积分级数习题集"></a>高质量数学分析，积分级数习题集</h1><p><a href="https://yuxtech.github.io/mypdf/数学分析变态难题.pdf">我翻译的数学分析变态习题</a><br><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/数学分析变态难题.pdf" width="100%" height="550" type="application/pdf"></div><br><br><br><a href="https://yuxtech.github.io/mypdf/潘神的积分级数题.pdf">潘神(Renascence_5)的积分级数题</a><br><br><br><div class="row">    <embed src="https://yuxtech.github.io/mypdf/潘神的积分级数题.pdf" width="100%" height="550" type="application/pdf"></div><br><br></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;高质量数学分析，积分级数习题集&quot;&gt;&lt;a href=&quot;#高质量数学分析，积分级数习题集&quot; class=&quot;headerlink&quot; title=&quot;高质量数学分析，积分级数习题集&quot;&gt;&lt;/a&gt;高质量数学分析，积分级数习题集&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://y
       
     
     </summary>
